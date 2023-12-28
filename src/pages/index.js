@@ -1,4 +1,4 @@
-import Home from "./home";
+import Home from "./Home";
 import Matchmaking from "./Matchmaking";
 import Chat from "./chat";
 import Profile from "./Profile";
