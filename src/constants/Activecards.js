@@ -4,9 +4,17 @@ const Cards = [
         name : "Manish",
         profileImg : "./img/image_2023-12-28_21-50-20.png",
         profile : "Full-Stack Developer",
-        desc : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took",
+        desc : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took",
         skills : [
             { skill : "React"},
+            { skill : "Node"},
+            { skill : "Angular"},
+            { skill : "Node"},
+            { skill : "Angular"},
+            { skill : "Node"},
+            { skill : "Angular"},
+            { skill : "Node"},
+            { skill : "Angular"},
             { skill : "Node"},
             { skill : "Angular"},
             { skill : "Express"}
